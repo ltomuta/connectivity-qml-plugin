@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/common">
+        <file alias="StatusInfo.qml">../qml/common/StatusInfo.qml</file>        
+        <file alias="MessageBubble.qml">../qml/common/MessageBubble.qml</file>
+        <file alias="MessageView.qml">../qml/common/MessageView.qml</file>
+        <file alias="SendButton.qml">../qml/common/SendButton.qml</file>
+        <file alias="About.qml">../qml/common/About.qml</file>
+        <file alias="incoming.png">../qml/common/incoming.png</file>
+        <file alias="outgoing.png">../qml/common/outgoing.png</file>
+        <file alias="send-chat.png">../qml/common/send-chat.png</file>
+    </qresource>
+    <qresource prefix="/symbian">
+        <file alias="info.svg">../qml/common/info.svg</file>
+        <file alias="start_chat.svg">../qml/common/start_chat.svg</file>
+    </qresource>
+    <qresource prefix="/harmattan">
+        <file alias="info.png">../qml/common/info.png</file>
+        <file alias="start_chat.png">../qml/common/start_chat.png</file>
+    </qresource>
+</RCC>

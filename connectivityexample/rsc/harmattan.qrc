@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/harmattan">
+        <file alias="main.qml">../qml/harmattan/main.qml</file>
+        <file alias="DiscoveryPage.qml">../qml/harmattan/DiscoveryPage.qml</file>
+        <file alias="MainPage.qml">../qml/harmattan/MainPage.qml</file>
+        <file alias="Header.qml">../qml/harmattan/Header.qml</file>
+        <file alias="ChatPage.qml">../qml/harmattan/ChatPage.qml</file>
+        <file alias="CommonDialog.qml">../qml/harmattan/CommonDialog.qml</file>
+    </qresource>
+</RCC>

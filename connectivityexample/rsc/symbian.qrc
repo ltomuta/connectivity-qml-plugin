@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/symbian">
+        <file alias="main.qml">../qml/symbian/main.qml</file>
+        <file alias="DiscoveryPage.qml">../qml/symbian/DiscoveryPage.qml</file>
+        <file alias="MainPage.qml">../qml/symbian/MainPage.qml</file>
+        <file alias="ChatPage.qml">../qml/symbian/ChatPage.qml</file>
+    </qresource>
+</RCC>
