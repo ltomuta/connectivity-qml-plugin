@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2012 Nokia Corporation.
+ * Copyright (c) 2012-2014 Microsoft Mobile.
  * All rights reserved.
  *
  * For the applicable distribution terms see the license text file included in

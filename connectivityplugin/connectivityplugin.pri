@@ -1,4 +1,4 @@
-# Copyright (c) 2012 Nokia Corporation.
+# Copyright (c) 2012-2014 Microsoft Mobile.
 
 QT += declarative network
 CONFIG += qt plugin mobility
